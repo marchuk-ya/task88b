@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//Поменять порядок цифр числа n на обратный.
+//kПоменять порядок цифр числа n на обратный.
 
 func Reader() string{
 	fmt.Print("Enter integer: ")
